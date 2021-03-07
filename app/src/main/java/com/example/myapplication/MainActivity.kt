@@ -32,7 +32,7 @@ class MainActivity : AppCompatActivity() {
 
         }
 
-     
+        // test commit
         dImage.setImageResource(dResource)
 
     }
