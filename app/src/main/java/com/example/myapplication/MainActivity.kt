@@ -32,7 +32,7 @@ class MainActivity : AppCompatActivity() {
 
         }
 
-//        val dImage: ImageView = findViewById(R.id.diceO)
+     
         dImage.setImageResource(dResource)
 
     }
